@@ -1,0 +1,7 @@
+
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Şë–48ÓÍã¦—2J$aa735e06-3a93-4d8e-a692-3ec788869025
+r	java:S106"+Replace this use of System.out by a logger.(‘Ş¨ûÿÿÿÿ8çÍã¦—2J$9a575c2a-50b0-426c-969b-46ee9c41d1a8
+‘
+java:S1128"IRemove this unused import 'jakarta.persistence.criteria.CriteriaBuilder'.(À¼ºñşÿÿÿÿ8ğÍã¦—2J$b98ed158-76f9-476a-82b9-6f104b1d7d11
+w
+java:S1128"5Remove this unused import 'java.io.FileOutputStream'.(˜«ªg8ğÍã¦—2J$13966ca2-238a-427a-93db-60661c072bb0
