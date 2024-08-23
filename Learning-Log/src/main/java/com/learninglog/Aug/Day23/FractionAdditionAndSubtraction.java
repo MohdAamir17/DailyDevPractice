@@ -5,7 +5,7 @@ public class FractionAdditionAndSubtraction {
        String  expression = "-1/2+1/2";
         String string = fractionAddition(expression);
         System.out.println(string);
-    }
+}
 
     public static String fractionAddition(String expression) {
         if (expression.length() == 0) {
