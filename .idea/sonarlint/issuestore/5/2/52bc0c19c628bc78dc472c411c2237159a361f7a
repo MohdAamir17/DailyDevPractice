@@ -1,0 +1,22 @@
+
+‰
+java:S11921"FDefine a constant instead of duplicating this literal "apple" 3 times.(Óú¤‹8ž˜Ü•š2J$e1596b33-13bf-43b4-9a18-692bcf4f5fb6
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³¤þÿÿÿÿ8 ˜Ü•š2J$8922b210-ce16-4f00-9d1f-7bd2ad747e2a
+ƒ
+java:S1854+"@Remove this useless assignment to local variable "employeeAges".(ú¡€8¤˜Ü•š2J$739ca674-8a0e-4df9-b6ce-e7019adf180b
+Ž
+java:S1854$"FRemove this useless assignment to local variable "employeeNamesByAge".(€§ŽÏøÿÿÿÿ8¤˜Ü•š2J$b7d1ac64-9b9a-42e7-acfb-4a46c80a7ac1
+r	java:S106"+Replace this use of System.out by a logger.(Îëß³úÿÿÿÿ8§˜Ü•š2J$7ad8cd07-c7d1-4a84-8604-966cb3c3dd78
+m	java:S106"+Replace this use of System.out by a logger.(ÙÂ‰Ò8§˜Ü•š2J$9351b389-3d6b-4e75-bcee-9a1ffca5d829
+m	java:S106"+Replace this use of System.out by a logger.(Ìù¶è8¨˜Ü•š2J$3eb309e8-fa56-473e-b604-ac5e52cbd97a
+r	java:S106 "+Replace this use of System.out by a logger.(“þÕµúÿÿÿÿ8¨˜Ü•š2J$dc43e8e3-664a-420c-b627-8f12944f0577
+r	java:S106!"+Replace this use of System.out by a logger.(ãÐè†ùÿÿÿÿ8¨˜Ü•š2J$e69862ac-2e5e-4856-9c5d-3fb7afb8cb3d
+
+java:S1481$"7Remove this unused "employeeNamesByAge" local variable.(€§ŽÏøÿÿÿÿ8ª˜Ü•š2J$3a34c84b-303b-44e0-9c26-908f7d881a58
+t
+java:S1481+"1Remove this unused "employeeAges" local variable.(ú¡€8«˜Ü•š2J$3cbac963-8eea-4293-a173-72659cb3f3b7
+r	java:S106>"+Replace this use of System.out by a logger.(ë÷‹Ûÿÿÿÿÿ8Š¥Ý•š2J$810f98d6-4953-410a-ace9-b4ed6958c803
+m	java:S106?"+Replace this use of System.out by a logger.(®žžë8æÔÝ•š2J$5cf63a33-c873-4332-8dd8-67fb570d6867
+ƒ	java:S125i"<This block of commented-out lines of code should be removed.(®¬³Úùÿÿÿÿ8®˜Ü•š2J$4079f1f2-5383-4b16-b699-3b9997869657
+v
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8ÔÏžŒ›2J$159723fb-9339-42f0-8af5-69352f51badc

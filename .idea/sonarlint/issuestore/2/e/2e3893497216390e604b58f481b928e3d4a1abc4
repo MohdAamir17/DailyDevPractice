@@ -1,0 +1,9 @@
+
+œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(·Ú›“8†»ÊÎ—2J$dae10b45-b8bf-429e-95c5-b8c0fb200d78
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÂòÍ¸øÿÿÿÿ8¼÷¾Î—2J$ed596d1d-e379-4b32-a609-1b2ae26724f9
+r	java:S106"+Replace this use of System.out by a logger.(¹Ší¹ÿÿÿÿÿ8Ó÷¾Î—2J$350bb49a-7f47-4fd6-a204-8ef901014e47
+r
+java:S1197"*Move the array designators [] to the type.(¸éƒ¡üÿÿÿÿ8¤»ÊÎ—2J$2cfce127-e0a5-41b6-8cb9-48dd42b0b4e9
+‘
+java:S1128"IRemove this unused import 'jakarta.persistence.criteria.CriteriaBuilder'.(À¼ºñþÿÿÿÿ8Ö÷¾Î—2J$f57bf726-b75b-401c-8557-25b0c370efe6

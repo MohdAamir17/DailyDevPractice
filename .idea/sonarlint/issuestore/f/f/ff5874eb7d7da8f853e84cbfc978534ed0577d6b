@@ -1,0 +1,16 @@
+
+³
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÉŒóë8º½¼È˜2J$2b108bcc-74f0-440b-a0f3-9f1c6d3094be
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›¡ž›8¼½¼È˜2J$dfd0e604-a3af-4f9a-9c74-09ae4a9953f3
+g
+java:S1659
+"Declare "k" on a separate line.(ì—ñ™øÿÿÿÿ8Ó½¼È˜2J$14922b2a-3f9a-4e21-b097-b000ad8993dd
+m
+java:S1197"*Move the array designators [] to the type.(€ýìÊ8Ô½¼È˜2J$2a8908a2-266d-454a-bd22-196bdacdffc4
+m	java:S106"+Replace this use of System.out by a logger.(Ì×ç«8Õ½¼È˜2J$54bf0077-9db6-435c-b458-9ca864ee801b
+m
+java:S1172"*Remove this unused method parameter "num".(ÉŒóë8×½¼È˜2J$144a9c63-e989-450b-be8e-d34ce233dbf4
+m
+java:S1197"*Move the array designators [] to the type.(ÉŒóë8×½¼È˜2J$102367e4-16ed-4863-b869-cefaa5880c19
+¢
+java:S1128"_Remove this unused import 'org.hibernate.internal.util.collections.CollectionHelper.arrayList'.(›ß‹¨8Þ½¼È˜2J$56a71697-729a-4858-ba8c-d9fc6426df13

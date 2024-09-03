@@ -1,0 +1,6 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²Ã» 8Öï´›2J$f8df87e9-636a-45f7-a3ca-fbc8697506d2
+r	java:S106"+Replace this use of System.out by a logger.(‰Òˆ»ÿÿÿÿÿ8ëï´›2J$1edc84ad-b210-43ea-97ea-cdfcec25197a
+ƒ	java:S125%"<This block of commented-out lines of code should be removed.(Û´Æ»ùÿÿÿÿ8ïï´›2J$abbcdbe0-6224-451a-9b46-ff7ab9805884
+‘
+java:S1128"IRemove this unused import 'jakarta.persistence.criteria.CriteriaBuilder'.(À¼ºñşÿÿÿÿ8ğï´›2J$056d5ced-fb1c-486e-9a00-62ae7113ed45

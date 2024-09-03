@@ -1,0 +1,15 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷×ôÄ8Øº¹Å™2J$af6f47b9-89db-48f7-8c96-e33f1232eaf0
+‚
+java:S1854":Remove this useless assignment to local variable "buyDay".(£Ö‘ƒýÿÿÿÿ8çº¹Å™2J$a290ee05-855e-428d-8d57-4936cea25a93
+h
+java:S1659"%Declare "sellDay" on a separate line.(Öº´²8èº¹Å™2J$16b094a0-7d85-41f6-9677-fbc82c4e4401
+n
+java:S1481"+Remove this unused "buyDay" local variable.(Öº´²8èº¹Å™2J$64bd5d7b-4efd-4250-8611-a63e2778f7bd
+m	java:S106 "+Replace this use of System.out by a logger.(í¼™ñ8êº¹Å™2J$c545b245-bf5f-4f70-ab8c-56caac4b0784
+h
+java:S1659*"%Declare "sellDay" on a separate line.(Öº´²8ëº¹Å™2J$8b39e5f4-ea31-4be7-a142-a411c1e4b8bd
+m	java:S106&"+Replace this use of System.out by a logger.(Å´¨ð8ëº¹Å™2J$11e23666-e12e-43b0-980f-c4b2e1678e63
+m	java:S106<"+Replace this use of System.out by a logger.(ÖåÏ„8ìº¹Å™2J$da007043-8c1f-4987-843c-6efa097ea51f
+m	java:S106E"+Replace this use of System.out by a logger.(ÖåÏ„8ìº¹Å™2J$27c0faf0-26d7-484d-a6dd-d7f942d1523e
+m	java:S106I"+Replace this use of System.out by a logger.(í¼™ñ8íº¹Å™2J$6700eefb-d315-4666-b59c-54f9fd736551
