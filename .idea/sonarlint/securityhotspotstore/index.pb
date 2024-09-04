@@ -103,3 +103,7 @@ y
 ILearning-Log/src/main/java/com/learninglog/September/Day3/SumOfDigit.java,2\c\2c05b0f37305694f7404c97470fc06be2d79ded5
 ‰
 YLearning-Log/src/main/java/com/learninglog/September/Day3/SeparateTheDigitsInAnArray.java,8\6\869a6c9781b517e7818a5367fc3c145657e708c7
+x
+HLearning-Log/src/main/java/com/learninglog/September/ReverseAInJava.java,5\0\5056251717b01684930efe8902d0fb88df81784c
+ƒ
+SLearning-Log/src/main/java/com/learninglog/September/Day4/CountWaysToN_thStair.java,c\0\c01828b269c99fac2c6b912b5fef8ae981ca46e2
