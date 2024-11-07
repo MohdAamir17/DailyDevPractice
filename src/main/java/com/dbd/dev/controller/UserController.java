@@ -1,6 +1,5 @@
 package com.dbd.dev.controller;
 
-import com.dbd.dev.dto.UserDTO;
 import com.dbd.dev.entity.User;
 import com.dbd.dev.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;

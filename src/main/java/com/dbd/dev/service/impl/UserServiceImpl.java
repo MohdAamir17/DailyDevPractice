@@ -1,7 +1,9 @@
 package com.dbd.dev.service.impl;
 
 import com.dbd.dev.dto.UserDTO;
+import com.dbd.dev.entity.Department;
 import com.dbd.dev.entity.User;
+import com.dbd.dev.repository.DepartmentRepository;
 import com.dbd.dev.repository.UserRepository;
 import com.dbd.dev.service.UserService;
 import org.springframework.beans.BeanUtils;
@@ -16,6 +18,9 @@ public class UserServiceImpl implements UserService {
 
     @Autowired
     private UserRepository userRepository;
+
+    @Autowired
+    private DepartmentRepository departmentRepository;
     @Override
     public  User createUser(User user) {
         // Set the User reference in each Order
@@ -30,5 +35,16 @@ public class UserServiceImpl implements UserService {
     public List<User> getAllUserDetails() {
         List<User> allUserList = userRepository.findAll();
         return allUserList;
+    }
+
+    @Override
+    public Department createDepartment(Department department) {
+        return departmentRepository.save(department);
+    }
+
+    @Override
+    public List<Department> getDepartment(Department department) {
+        List<Department> departmentListByName = departmentRepository.findByNameIgnoreCase(department.getName());
+        return departmentListByName;
     }
 }
