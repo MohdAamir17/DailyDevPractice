@@ -26,4 +26,13 @@ public class DepartmentController {
         List<Department> listOfDepartment = userService.getDepartment(department);
         return ResponseEntity.ok(listOfDepartment);
     }
+
+    @DeleteMapping("/delete/{id}/{appId}")
+    public ResponseEntity<Object> deleteDepartment(
+            @PathVariable("id") Long departmentId,
+            @PathVariable(value = "appId",required = false) Long applicationId) {
+
+        userService.deleteDepartment(departmentId, applicationId);
+        return ResponseEntity.ok().body("Department deleted successfully");
+    }
 }

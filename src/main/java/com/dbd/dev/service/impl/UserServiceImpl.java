@@ -47,4 +47,10 @@ public class UserServiceImpl implements UserService {
         List<Department> departmentListByName = departmentRepository.findByNameIgnoreCase(department.getName());
         return departmentListByName;
     }
+
+    @Override
+    public void deleteDepartment(Long departmentId, Long applicationId) {
+        System.out.println("DepartmentId : " + departmentId + "ApplicationId : " + applicationId);
+    }
+
 }

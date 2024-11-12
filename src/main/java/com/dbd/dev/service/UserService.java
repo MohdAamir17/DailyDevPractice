@@ -14,4 +14,6 @@ public interface UserService {
     Department createDepartment(Department department);
 
     List<Department> getDepartment(Department department);
+
+    void deleteDepartment(Long departmentId, Long applicationId);
 }
